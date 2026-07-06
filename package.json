@@ -1,0 +1,16 @@
+{
+  "name": "1.4unittestingassignment",
+  "version": "1.0.0",
+  "description": "Node.js Unit Testing Assignment",
+  "license": "ISC",
+  "author": "Angella McConnell",
+  "private": true,
+  "main": "index.js",
+  "module": "commonjs",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
