@@ -1,9 +1,9 @@
 # 1.4 Unit Testing Assignment
 
-This repository contains a small Node.js unit testing assignment with two modules:
+This repository contains a small Node.js unit testing assignment with two modules for Full Sail University's Web Application Integration course. The assignment includes two modules and their corresponding Jest tests:
 
 - `total.js` — calculates the total of an array of prices
-- `obscureCreditCard.js` — masks a credit card number except for the last 4 digits, and returns `invalid credit card` for invalid lengths or non-string input
+- `obscureCreditCard.js` — obscures a credit card number except for the last 4 digits, and returns `invalid credit card` for invalid lengths or non-string input
 
 ## Files
 
